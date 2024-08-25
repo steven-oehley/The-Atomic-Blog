@@ -39,7 +39,7 @@ To run The Atomic Blog locally, follow these steps:
 
 5. **Open your browser:**
 
-   Visit `http://localhost:3000` to view the blog in your browser.
+   Visit `http://localhost:5173` to view the blog in your browser.
 
 ## Usage
 
